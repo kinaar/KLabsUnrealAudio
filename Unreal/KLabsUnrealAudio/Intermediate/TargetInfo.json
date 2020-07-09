@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "KLabsUnrealAudio",
+			"Path": "C:\\Users\\Admin\\Desktop\\ENJMIN\\Memoire_M1\\Git\\KLabsUnrealAudio\\Unreal\\KLabsUnrealAudio\\Source\\KLabsUnrealAudio.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KLabsUnrealAudioEditor",
+			"Path": "C:\\Users\\Admin\\Desktop\\ENJMIN\\Memoire_M1\\Git\\KLabsUnrealAudio\\Unreal\\KLabsUnrealAudio\\Source\\KLabsUnrealAudioEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

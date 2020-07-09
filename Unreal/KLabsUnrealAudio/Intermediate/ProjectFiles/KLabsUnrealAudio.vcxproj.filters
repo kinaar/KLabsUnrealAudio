@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\KLabsUnrealAudio.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A51B2EDE-ADBE-4716-A77A-A70E75818638}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KLabsUnrealAudio.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\KLabsUnrealAudioEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{540CDA9E-3920-4B00-9A46-0AF0A3AA065A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\KLabsUnrealAudio">
+      <UniqueIdentifier>{5618C3C2-F816-4359-B9AA-4B3420FC7C1B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KLabsUnrealAudio\KLabsUnrealAudio.Build.cs">
+      <Filter>Source\KLabsUnrealAudio</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\KLabsUnrealAudio\KLabsUnrealAudio.cpp">
+      <Filter>Source\KLabsUnrealAudio</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KLabsUnrealAudio\KLabsUnrealAudio.h">
+      <Filter>Source\KLabsUnrealAudio</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KLabsUnrealAudio\KLabsUnrealAudioGameModeBase.cpp">
+      <Filter>Source\KLabsUnrealAudio</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KLabsUnrealAudio\KLabsUnrealAudioGameModeBase.h">
+      <Filter>Source\KLabsUnrealAudio</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

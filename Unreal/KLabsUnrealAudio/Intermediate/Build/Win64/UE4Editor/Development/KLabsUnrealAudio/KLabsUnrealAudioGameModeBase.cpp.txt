@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Intermediate\Build\Win64\UE4Editor\Development\KLabsUnrealAudio\Definitions.KLabsUnrealAudio.h
+C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Source\KLabsUnrealAudio\KLabsUnrealAudioGameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Intermediate\Build\Win64\UE4Editor\Inc\KLabsUnrealAudio\KLabsUnrealAudioGameModeBase.generated.h

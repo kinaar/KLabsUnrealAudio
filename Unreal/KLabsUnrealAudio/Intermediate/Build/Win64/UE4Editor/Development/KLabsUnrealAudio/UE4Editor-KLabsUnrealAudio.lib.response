@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-KLabsUnrealAudio.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Intermediate\Build\Win64\KLabsUnrealAudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Intermediate\Build\Win64\UE4Editor\Development\KLabsUnrealAudio\KLabsUnrealAudio.cpp.obj"
+"C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Intermediate\Build\Win64\UE4Editor\Development\KLabsUnrealAudio\KLabsUnrealAudioGameModeBase.cpp.obj"
+"C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Intermediate\Build\Win64\UE4Editor\Development\KLabsUnrealAudio\KLabsUnrealAudio.init.gen.cpp.obj"
+"C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Intermediate\Build\Win64\UE4Editor\Development\KLabsUnrealAudio\KLabsUnrealAudioGameModeBase.gen.cpp.obj"
+"C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Intermediate\Build\Win64\UE4Editor\Development\KLabsUnrealAudio\Default.rc2.res"
+/OUT:"C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Intermediate\Build\Win64\UE4Editor\Development\KLabsUnrealAudio\UE4Editor-KLabsUnrealAudio.lib"
+/INCLUDE:IMPLEMENT_MODULE_KLabsUnrealAudio

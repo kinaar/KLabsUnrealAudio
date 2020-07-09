@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Intermediate\Build\Win64\UE4Editor\Development\KLabsUnrealAudio\Definitions.KLabsUnrealAudio.h
+C:\Users\Admin\Desktop\ENJMIN\Memoire_M1\Git\KLabsUnrealAudio\Unreal\KLabsUnrealAudio\Source\KLabsUnrealAudio\KLabsUnrealAudio.h
