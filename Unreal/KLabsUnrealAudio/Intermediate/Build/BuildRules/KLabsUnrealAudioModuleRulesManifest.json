@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Admin\\Desktop\\ENJMIN\\Memoire_M1\\Git\\KLabsUnrealAudio\\Unreal\\KLabsUnrealAudio\\Source\\KLabsUnrealAudio\\KLabsUnrealAudio.Build.cs",
-		"C:\\Users\\Admin\\Desktop\\ENJMIN\\Memoire_M1\\Git\\KLabsUnrealAudio\\Unreal\\KLabsUnrealAudio\\Source\\KLabsUnrealAudio.Target.cs",
-		"C:\\Users\\Admin\\Desktop\\ENJMIN\\Memoire_M1\\Git\\KLabsUnrealAudio\\Unreal\\KLabsUnrealAudio\\Source\\KLabsUnrealAudioEditor.Target.cs"
+		"C:\\Users\\guerr\\Desktop\\ENJMIN\\Memoire_M1\\Git\\KLabsUnrealAudio\\Unreal\\KLabsUnrealAudio\\Source\\KLabsUnrealAudio\\KLabsUnrealAudio.Build.cs",
+		"C:\\Users\\guerr\\Desktop\\ENJMIN\\Memoire_M1\\Git\\KLabsUnrealAudio\\Unreal\\KLabsUnrealAudio\\Source\\KLabsUnrealAudio.Target.cs",
+		"C:\\Users\\guerr\\Desktop\\ENJMIN\\Memoire_M1\\Git\\KLabsUnrealAudio\\Unreal\\KLabsUnrealAudio\\Source\\KLabsUnrealAudioEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.1"
 }
